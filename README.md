@@ -8,7 +8,7 @@ Completion: **100%**\
 Updated on: December 29th, 2022
 
 ## Project Description
-FOODCAVE is an online canteen food ordering and management system based on case scenario at Sri Vasavi Engineering College,Pedatadepalli. This system has 2 main group of users, customer and shop owner. Customer can view shop and menu list, add item to the cart, place the order up to 1 day in advance, pay for order, and view their order history. Shop owner can edit their shop information, manage their menus, manage customer orders, and view revenue report. There's also a "admin" mode which can manage the system of customer, shop, menu, and orders.
+FOODCAVE is an online canteen food ordering and management system based on case scenario at Sri Vasavi Engineering College,Pedatadepalli. This system has 2 main group of users, customer and admin. Customer can view shop and menu list, add item to the cart, place the order pay for order, and view their order history.Admin can edit respective shop information, manage their menus, manage customer orders, and view revenue report.
 
 ## Deployment
 Please visit https://eaterio-test.herokuapp.com/index.php
@@ -19,16 +19,15 @@ Please visit https://eaterio-test.herokuapp.com/index.php
 - JavaScript
 - PHP 8.0.9
 - MySQL Database
-- Bootstrap 5.1.3
-- Omise API Version 2019-05-29
+- Bootstrap 5.2.3
+
 
 ## Footnote
-- To use Omise API in PHP language for your project, go to https://github.com/omise/omise-php. For more information about Omise Payment API, visit https://www.omise.co/docs
-- Food images included in the img folder are downloaded from freepik.com. Copyrights of those are belong to the owners of those images.
-- To install the EATERIO app, download and install XAMPP, download this repository and put into directory (C:/xampp/htdocs/), import database and name it eaterio in phpMyAdmin (http://localhost/phpmyadmin) using file SeriousEater-Eaterio-Database.sql, start Apache and MySQL services, then run and access by using web browser (http://localhost/EATERIO/) and enjoy.
-- You can register for the customer account and log in. To log in with shop account, press the log in with shop account under login page. Add shop account using the admin mode. Access admin mode by clicking at the first name in the footer at the customer log in page. You can look up 
+- Food,Shop images included in the img folder.
+- To install the FOODCAVE, download and install XAMPP, download this repository and put into directory (C:/xampp/htdocs/), import database and name it foodcave in phpMyAdmin (http://localhost/phpmyadmin) using file foodcave.sql, start Apache and MySQL services, then run and access by using web browser (http://localhost/FOODCAVE/) and enjoy.
+- You can register for the customer account and log in. To log in with admin account, press the log in with admin account under login page. Add shousing the admin mode. You can look up 
 
 ## Members
-Paphana Yiwsiw - @waterthatfrozen\
-Sirada Chaisawat - @qmuip\
-Thanakit Lerttomolsakul - @BrightHiewww
+Poorna Sai Kishore - @Poorna7569\
+Anji Babu - @AnjiBabuTonta\
+
