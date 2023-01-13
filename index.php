@@ -4,7 +4,7 @@
     <?php session_start(); include("conn_db.php"); include("head.php");?>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome | FOODCAVE </title>
+    <title>Welcome | FOODCAVE | FOODMUNCH </title>
     <link rel="stylesheet" href="css/main.css">
     <link rel="stylesheet" href="css/main1.css">
 </head>
